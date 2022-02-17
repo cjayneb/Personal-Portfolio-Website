@@ -16,6 +16,15 @@ export const projects = [
     source: 'https://github.com/cgerard321/champlain_petclinic/pulls?q=author%3Acjayneb',
     demo: 'https://www.youtube.com/playlist?list=PL8pDIJfiqahiaC9zNMAuo6EormhfL1sxH',
     id: 1,
+  },
+  {
+    title: 'This Website',
+    description: "Woah dude. That's so meta.",
+    image: '/images/portfoliosc.png',
+    tags: ['React', 'Next.js', 'HostGator', 'MySQL'],
+    source: 'https://github.com/cjayneb/Personal-Portfolio-Website',
+    demo: 'https://jcbenoit.com',
+    id: 2,
   }
 ];
 
