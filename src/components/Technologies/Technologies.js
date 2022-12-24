@@ -20,7 +20,7 @@ const Technologies = () => (
           <ListTitle>Databases</ListTitle>
           <ListParagraph>
             Experience with <br />
-            MySQL
+            SQL Server (SSMS) and MySQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -30,7 +30,7 @@ const Technologies = () => (
           <ListTitle>Backend</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.js
+            Node.js and Dynamics 365 CRM
           </ListParagraph>
         </ListContainer>
       </ListItem>

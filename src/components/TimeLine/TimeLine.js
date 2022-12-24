@@ -44,6 +44,7 @@ const Timeline = () => {
 
   return (
     <Section id='about'>
+      <SectionDivider />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         Open-minded programmer dedicated to improving his skills through hands-on learning and development work. Well-organized and collaborative team player recognized for working valiantly. Interested in Software Development, Gaming, Artificial Intelligence, and Music.

@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'PetClinic Web App',
-    description: "Using Java Spring Boot, my classmates and I developed a web application to manage a hypthetical Pet Clinic. Our team sepcifically took care of bringing up a microservice for Visits Management.",
+    description: "Using Java Spring Boot, my classmates and I developed a web application to manage a hypothetical Pet Clinic. Our team sepcifically took care of bringing up a microservice for Visits Management.",
     image: '/images/petclinic.png',
     tags: ['Spring Boot', 'Java', 'Gradle', 'Docker'],
     source: 'https://github.com/cgerard321/champlain_petclinic/pulls?q=author%3Acjayneb',
@@ -35,5 +35,5 @@ export const TimeLineData = [
   { year: 2020, text: 'Achieved Honour Roll status for semester of Fall 2020' },
   { year: 2021, text: 'Achieved Honour Roll status for semester of Winter 2021' },
   { year: 2022, text: 'Got accepted for an internship at T3 Labs' },
-  { year: 2022, text: 'Finish my DEC in Computer Science at Champlain College' }
+  { year: 2022, text: 'Finished my DEC in Computer Science at Champlain College' }
 ];
